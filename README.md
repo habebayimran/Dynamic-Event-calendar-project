@@ -78,7 +78,7 @@ I made this project by cloning the idea of Google Calendar Application. It got s
 
 ## **Installation and Setup**
 
-## ***Prerequisites**
+## **Prerequisites**
     Node.js and npm installed on your system.
 
 ## **Steps**
@@ -129,7 +129,7 @@ I made this project by cloning the idea of Google Calendar Application. It got s
 
 The application is deployed on **Netlify**. You can access it here:
 
-[**Live Application Link**](#)
+https://dynamic-calender-googlecalenderclone.netlify.app
 
 ---
 
@@ -180,8 +180,8 @@ The application is deployed on **Netlify**. You can access it here:
 
 ## **Links**
 
-- **GitHub Repository**: https://github.com/habebayimran/Dynamic-Event-calendar-project.git(#)
-- **Live Deployment**: [Deployed App Link](#)
+- **GitHub Repository**: https://github.com/habebayimran/Dynamic-Event-calendar-project.git
+- **Live Deployment**: https://dynamic-calender-googlecalenderclone.netlify.app
 
 ---
 
